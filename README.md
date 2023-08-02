@@ -1,2 +1,2 @@
-# deep-learning-challeng
+# deep-learning-challenge
 Module 21 assignment
