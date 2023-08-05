@@ -1,7 +1,7 @@
 # Module 21 Challenge - Alphabet Soup Charity - Deep Learning
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. This project uses the features in the provided dataset and creates a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
-# Dataset structure: 
+# Dataset: 
    * Within this dataset are a number of columns that capture metadata about each organization, such as:
    * EIN and NAME—Identification columns
    * APPLICATION_TYPE—Alphabet Soup application type
